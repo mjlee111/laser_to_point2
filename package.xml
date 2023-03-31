@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>laser_to_point2</name>
+  <version>0.0.0</version>
+  <description>The laser_to_point2 package</description>
+  <maintainer email="carloscosta.cmcc@gmail.com">Carlos Miguel Correia da Costa</maintainer>
+  <license>BSD</license>
+  <author email="carloscosta.cmcc@gmail.com">Carlos Miguel Correia da Costa</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>pcl_ros</depend>
+  <depend>pcl_conversions</depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+</package>
